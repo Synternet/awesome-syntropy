@@ -20,11 +20,9 @@ https://docs.syntropynet.com/docs/data-layer-overview
 5. [Syntropy Data Layer SDK for Webhooks (TypeScript)](https://github.com/SyntropyNet/pubsub-ws)
 
 # Ecosystem projects 
-... your project can be showcased here. Join the Syntropy Builders Program today: [Syntropy Builders Program](https://www.syntropynet.com/builders)
+Your project can be showcased here. Join the Syntropy Builders Program today: [Syntropy Builders Program](https://www.syntropynet.com/builders)  
 Are we missing something? Feel free to add and open a PR!
 
 ## SDKs
 - [JAVA SDK](https://github.com/daviderota/syntropy-pubsub-java)
 - [Kotlin SDK](https://github.com/daviderota/syntropy-pubsub-kotlin)
-
-
