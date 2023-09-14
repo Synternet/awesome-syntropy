@@ -21,3 +21,10 @@ https://docs.syntropynet.com/docs/data-layer-overview
 
 # Ecosystem projects 
 ... your project can be showcased here. Join the Syntropy Builders Program today: [Syntropy Builders Program](https://www.syntropynet.com/builders)
+Are we missing something? Feel free to add and open a PR!
+
+## SDKs
+- [JAVA SDK](https://github.com/daviderota/syntropy-pubsub-java)
+- [Kotlin SDK](https://github.com/daviderota/syntropy-pubsub-kotlin)
+
+
