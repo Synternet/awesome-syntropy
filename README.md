@@ -26,3 +26,4 @@ Are we missing something? Feel free to add and open a PR!
 ## SDKs
 - [JAVA SDK](https://github.com/daviderota/syntropy-pubsub-java)
 - [Kotlin SDK](https://github.com/daviderota/syntropy-pubsub-kotlin)
+- [Scala SDK](https://github.com/daviderota/syntropy-pubsub-scala)
