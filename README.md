@@ -36,12 +36,12 @@ Data Layer SDK is available in different programming languages. Need help progra
 
 ## Official SDKs
 
-1. [Go (recommended) ](https://github.com/Syntropy/data-layer-sdk)
-1. [Go (simple) ](https://github.com/Syntropy/pubsub-go)
-2. [Python](https://github.com/Syntropy/pubsub-python)
-3. [Node.js](https://github.com/Syntropy/pubsub-js)
-4. [Rust](https://github.com/Syntropy/pubsub-rust)
-5. [Browser](https://github.com/Syntropy/pubsub-ws)
+1. [Go (recommended) ](https://github.com/Synternet/data-layer-sdk)
+1. [Go (simple) ](https://github.com/Synternet/pubsub-go)
+2. [Python](https://github.com/Synternet/pubsub-python)
+3. [Node.js](https://github.com/Synternet/pubsub-js)
+4. [Rust](https://github.com/Synternet/pubsub-rust)
+5. [Browser](https://github.com/Synternet/pubsub-ws)
 
 ## Community SDKs
 
