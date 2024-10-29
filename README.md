@@ -1,30 +1,57 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-# Syntropy Data Layer Awesome List
+# Synternet Data Layer Awesome List
 
-Welcome to the Syntropy Data Layer Awesome List – your ultimate gateway to a universe of cutting-edge technologies and resources! 🚀
+Welcome to the Synternet Data Layer Awesome list! 🚀
+
 # Table of contents
 
+- [Landing Page](#landing-page)
 - [Official Documentation](#official-documentation)
-- [Official SDKs](#official-sdks)
-- [Ecosystem projects](#ecosystem-projects)
-  
+- [Staking](#staking)
+- [Data Layer Portal](#data-layer-portal)
+- [SDKs](#sdks)
+- [Community](#community)
+
+# Landing Page
+
+https://synternet.com
+
 # Official Documentation
-https://docs.syntropynet.com/docs/data-layer-overview
+https://docs.synternet.com/build/
 
-# Official SDKs
-1. [Syntropy Data Layer SDK for Go ](https://github.com/SyntropyNet/pubsub-go)
-2. [Syntropy Data Layer SDK for Python](https://github.com/SyntropyNet/pubsub-python)
-3. [Syntropy Data Layer SDK for JavaScript](https://github.com/SyntropyNet/pubsub-js)
-4. [Syntropy Data Layer SDK for Rust](https://github.com/SyntropyNet/pubsub-rust)
-5. [Syntropy Data Layer SDK for Webhooks (TypeScript)](https://github.com/SyntropyNet/pubsub-ws)
+# Staking
 
-# Ecosystem projects 
-Your project can be showcased here. Join the Syntropy Builders Program today: [Syntropy Builders Program](https://www.syntropynet.com/builders)  
-Are we missing something? Feel free to add and open a PR!
+- [Testnet](https://staking-testnet.synternet.com/)
+- [Mainnet](https://staking.synternet.com/)
 
-## SDKs
+# Data Layer Portal
+
+- [Testnet](https://portal-testnet.synternet.com/)
+- [Mainnet](https://portal.synternet.com/)
+
+# SDKs
+
+Data Layer SDK is available in different programming languages. Need help programming? Join discord [#developers-chat](https://discord.com/channels/503896258881126401/1125658694399561738)
+
+## Official SDKs
+1. [Go (recommended) ](https://github.com/Syntropy/data-layer-sdk)
+1. [Go (simple) ](https://github.com/Syntropy/pubsub-go)
+2. [Python](https://github.com/Syntropy/pubsub-python)
+3. [Node.js](https://github.com/Syntropy/pubsub-js)
+4. [Rust](https://github.com/Syntropy/pubsub-rust)
+5. [Browser](https://github.com/Syntropy/pubsub-ws)
+
+## Community SDKs
 - [JAVA SDK](https://github.com/daviderota/syntropy-pubsub-java)
 - [Kotlin SDK](https://github.com/daviderota/syntropy-pubsub-kotlin)
 - [Scala SDK](https://github.com/daviderota/syntropy-pubsub-scala)
 - [C# SDK](https://github.com/FabrolIsBack/pubsub-Csharp).
+
+# Community
+
+- [Telegram](https://t.me/Synternet)
+- [Discord](https://discord.gg/synternet)
+- [Twitter](https://twitter.com/synternet_com)
+- [YouTube](https://www.youtube.com/@synternet_com)
+- [LinkedIn](https://www.linkedin.com/company/synternet)
