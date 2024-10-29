@@ -35,6 +35,7 @@ https://docs.synternet.com/build/
 Data Layer SDK is available in different programming languages. Need help programming? Join discord [#developers-chat](https://discord.com/channels/503896258881126401/1125658694399561738)
 
 ## Official SDKs
+
 1. [Go (recommended) ](https://github.com/Syntropy/data-layer-sdk)
 1. [Go (simple) ](https://github.com/Syntropy/pubsub-go)
 2. [Python](https://github.com/Syntropy/pubsub-python)
@@ -43,10 +44,11 @@ Data Layer SDK is available in different programming languages. Need help progra
 5. [Browser](https://github.com/Syntropy/pubsub-ws)
 
 ## Community SDKs
+
 - [JAVA SDK](https://github.com/daviderota/syntropy-pubsub-java)
 - [Kotlin SDK](https://github.com/daviderota/syntropy-pubsub-kotlin)
 - [Scala SDK](https://github.com/daviderota/syntropy-pubsub-scala)
-- [C# SDK](https://github.com/FabrolIsBack/pubsub-Csharp).
+- [C# SDK](https://github.com/FabrolIsBack/pubsub-Csharp)
 
 # Community
 
