@@ -8,6 +8,7 @@ Welcome to the Synternet Data Layer Awesome list! 🚀
 
 - [Landing Page](#landing-page)
 - [Official Documentation](#official-documentation)
+- [Blockchain Explorer](#blockchain-explorer)
 - [Staking](#staking)
 - [Data Layer Portal](#data-layer-portal)
 - [SDKs](#sdks)
@@ -19,6 +20,11 @@ https://synternet.com
 
 # Official Documentation
 https://docs.synternet.com/build/
+
+# Blockchain Explorer
+
+- [Testnet](https://explorer-testnet.synternet.com/)
+- [Mainnet](https://explorer.synternet.com/)
 
 # Staking
 
